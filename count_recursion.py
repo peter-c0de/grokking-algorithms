@@ -1,5 +1,9 @@
-# Peter Ezzat Aziz
+# Peter Ezzat
 # Date: 7th November 2024
+
+# Chapter 4: Quicksort
+# Exercise: 4.2
+# Page: 63
 
 def count_items(arr):
     #if (arr==[]): return 0

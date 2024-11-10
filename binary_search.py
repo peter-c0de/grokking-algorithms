@@ -1,4 +1,6 @@
+# Peter Ezzat
 # Date: 31 October 2024
+
 # Chapter 1: Introduction to Algorithms
 # Page: 9
 

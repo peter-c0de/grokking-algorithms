@@ -1,5 +1,8 @@
 # Peter Ezzat
-# Date: 31 October 2024
+# Date: 31st October 2024
+
+# Chapter 2: Selection Sort
+# Page: 38
 
 def find_smallest(arr):
     smallest = 0

@@ -1,5 +1,9 @@
-# Peter Ezzat Aziz
+# Peter Ezzat
 # Date: 6th November 2024
+
+# Chapter 4: Quicksort
+# Exercise: 4.1
+# Page: 63
 
 ### My Code ###
 # Problem: Delete's the array
